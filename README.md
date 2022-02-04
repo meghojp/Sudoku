@@ -1,5 +1,5 @@
 # Sudoku
-Sudoku Game With --> 
+Sudoku Game With :-
 HTML 
 CSS 
 Bootstrap
