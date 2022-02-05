@@ -139,7 +139,6 @@ a {
   position: relative;
   overflow: hidden;
   height: 100%;
-  min-width: 400px;
 }
 
 .start-screen {
@@ -518,7 +517,7 @@ img {
     min-width: unset;
   }
   .main {
-    height: 100vh;
+    height: unset;
   }
   .main-game-info-box {
     margin-bottom: auto;
